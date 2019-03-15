@@ -5,4 +5,4 @@ const Title = styled.h1`
   padding: 0 20px;
 `;
 
-export default () => <Title>Gradebook</Title>;
+export default () => <Title>✅ Gradebook</Title>;
